@@ -1,6 +1,6 @@
 {
-  "minUsd": 50000,
-  "pctThreshold": 0.10,
+  "minUsd": 1,
+  "pctThreshold": 0.0001,
   "watch": [
     {
       "method": "pool_reserves",
