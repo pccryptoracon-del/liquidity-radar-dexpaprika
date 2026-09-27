@@ -6,7 +6,7 @@
       "method": "pool_reserves",
       "chain": "ethereum",
       "address": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
-      "label": "My Watched Pool"
+      "label": "USDC/WETH Uniswap V3 0.05%"
     }
   ]
 }
